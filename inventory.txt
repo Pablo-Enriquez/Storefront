@@ -1,0 +1,15 @@
+Eggs	1.09
+Roast Beef	3.49
+Ground Beef	2.49
+Milk	2.39
+Cereal	4.19
+Bread	1.99
+Apples	0.99
+Blueberries	1.29
+Sausage	2.99
+Mountain Dew	5.99
+Frozen Pizza	6.59
+Tamales	7.19
+String Cheese	1.29
+Hamburgers	12.99
+Peanut Butter	3.99
